@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@aws-accelerator/common-types": "workspace:*",
-    "io-ts": "2.2.16"
+    "io-ts": "2.2.20"
   },
   "devDependencies": {
     "@aws-accelerator/io-ts-json-schema-gen": "workspace:*",

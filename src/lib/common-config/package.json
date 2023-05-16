@@ -25,7 +25,7 @@
     "@aws-accelerator/common-outputs": "workspace:*",
     "@aws-accelerator/common-types": "workspace:*",
     "@aws-accelerator/config": "workspace:*",
-    "@types/deep-diff": "1.0.0",
+    "@types/deep-diff": "1.0.2",
     "deep-diff": "1.0.2"
   },
   "devDependencies": {

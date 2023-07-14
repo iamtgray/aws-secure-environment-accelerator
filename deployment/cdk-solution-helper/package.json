@@ -2,9 +2,9 @@
   "name": "cdk-solution-helper",
   "version": "0.1.0",
   "devDependencies": {
-    "fs": "0.0.1-security"
+    "fs": "0.0.2"
   },
   "dependencies": {
-    "fs": "0.0.1-security"
+    "fs": "0.0.2"
   }
 }

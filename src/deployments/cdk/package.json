@@ -92,7 +92,7 @@
     "aws-cdk": "2.38.0",
     "@aws-cdk/cloudformation-diff": "2.38.0",
     "@aws-cdk/core": "1.172.0",
-    "proxy-agent": "5.0.0",
+    "proxy-agent": "6.3.0",
     "@aws-cdk/cloud-assembly-schema": "2.38.0",
     "@aws-cdk/assert": "1.172",
     "uuid": "9.0.0"

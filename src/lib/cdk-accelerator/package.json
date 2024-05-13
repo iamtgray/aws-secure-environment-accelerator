@@ -22,7 +22,7 @@
     "aws-cdk-lib": "2.38.0",
     "constructs": "10.0.12",
     "glob": "7.1.6",
-    "tempy": "1.0.1"
+    "tempy": "3.0.0"
   },
   "devDependencies": {
     "@aws-cdk/assert": "2.38.0",

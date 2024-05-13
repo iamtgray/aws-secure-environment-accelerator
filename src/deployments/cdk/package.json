@@ -87,7 +87,7 @@
     "pascal-case": "3.1.2",
     "promptly": "3.2.0",
     "semver": "7.3.5",
-    "tempy": "1.0.1",
+    "tempy": "3.0.0",
     "@aws-cdk/cx-api": "2.38.0",
     "aws-cdk": "2.38.0",
     "@aws-cdk/cloudformation-diff": "2.38.0",
